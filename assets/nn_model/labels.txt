@@ -1,0 +1,3 @@
+0 DOG
+1 CAT
+2 HUMAN
